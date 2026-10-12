@@ -3,6 +3,11 @@
 Each recipe copies the format that is already going viral. Nothing here is a new concept: same structure,
 same audio, same timing, made with AI instead of a camera.
 
+**Freshness check (Oct 12):** Recipes 1, 3, 4 and 5 come from trend reports dated Sept-Oct 2026.
+Recipe 2 does **not**: Fruit Love Island peaked in March 2026. Treat it as an evergreen AI niche, not a
+current trend. No source gave view counts for recipes 3-5, only "trending" status, so check each sound's
+page for recent uploads before producing.
+
 **Ground rules that keep the channel alive**
 - **Audio:** never download and re-upload a song. On TikTok, tap the sound on a trending video and use
   "Use this sound". On YouTube Shorts, open a Short that uses it and tap "Remix → Use sound". That way the
@@ -39,7 +44,7 @@ fluorescent light, then camera tilts up revealing [COSTUME], figure stops and st
 
 ---
 
-## Recipe 2 — AI fruit reality-show episode (the Fruit Love Island format)
+## Recipe 2 — AI fruit reality-show episode (the Fruit Love Island format) ⚠️ NOT CURRENT: peaked March 2026
 
 The format, copied: AI fruit characters, a dating-villa setting, confessional-style drama, numbered
 episodes, cliffhanger ending. Use a generic title like **"Fruit Villa"**, never "Love Island" or its logo.
