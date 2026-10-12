@@ -127,3 +127,21 @@ Generate each shot separately, voice with AI voices, add burned-in captions.
 
 After 7 days, compare in YouTube Studio: **average % viewed** and **swipe-away rate**. Double the recipe
 that wins and drop the weakest. Replace trend recipes (3, 4, 5) as soon as their sounds stop climbing.
+
+---
+
+## Live check: TikTok Creative Center, US, last 30 days (scraped Oct 12, 2026)
+
+Only the top 3 of each chart are visible without logging in.
+
+| Rank | Hashtag | Posts | Views | What it is | Use it? |
+|------|---------|-------|-------|-----------|---------|
+| 1 | #citytastetest | 2.4M | 2.7B | Taste a local dish on camera, react, score it /10. Ranked #1 for the 7-day window on Oct 1 too. TikTok reportedly ran creator incentives for it in NYC and LA in September. | **Yes**, but it needs real filming (faceless works: hands, food, voiceover). AI can't do this one. |
+| 2 | #cornelluniversity | 66.4K | 608.2M | Content about an ongoing sexual-assault lawsuit; PolitiFact found many viral clips used fake footage. | **No.** A real victim and a live legal case. |
+| 3 | #patientzero | 62.7K | 260.3M | Taylor Swift's "Patient Zero", used for wedding and couple edits. | Yes, as an edit-style trend. |
+
+**Top videos (30 days, by views):** all four were paid brand ads (Domino's 97M and 91.9M, Target 79.7M,
+General Mills 76.8M). They are not organic trends to copy.
+
+**Implication:** the single biggest current trend (#citytastetest) is a real-life format. Consider pairing
+the AI recipes with one filmed format.
